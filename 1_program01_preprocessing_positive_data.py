@@ -41,8 +41,8 @@ cur.execute("SELECT uniprot_acc, p1 FROM cleavage WHERE code=(%s);", merops_code
 a = cur.fetchall()
 print(a)
 
-positive_proteases_txt = {"HAT":"S01-047(human_airway_trypsin-like_peptidase).txt", "DESC1":"S01-021(DESC1_peptidase).txt",  
-                      "TMPRSS2":"S01-247(epitheliasin).txt", "TMPRSS4":"S01-034(transmembrane_peptidase-serine_4).txt"}
+positive_proteases_txt = {"HAT":"S01-047_human_airway_trypsin-like_peptidase.tsv", "DESC1":"S01-021_DESC1_peptidase.tsv",  
+                      "TMPRSS2":"S01-247_epitheliasin.tsv", "TMPRSS4":"S01-034_transmembrane_peptidase-serine_4.tsv"}
 
 # Uniprot APIを用いてアミノ酸配列を取得するスクリプトを用意します．
 #https://seiyakukenkyusya.com/programming/collecting-uniprot-information/
