@@ -1,0 +1,101 @@
+Substrate	Uniprot	Residue range	Cleavage Site	Cleavage type	Evidence	P4	P3	P2	P1	P1'	P2'	P3'	P4'	Reference	CutDB	MERNUM
+P78365	109-134	peptide-Ser123+Ser-peptide	N	MS	Asn	Ser	Ala	Ser	Ser	Ile	Ala	Gly	Barr� et al., 2014		
+Q6ZS99	285-301	AR+TLLAKNLPYKVTQDE	N	MS	-	-	Ala	Arg	Thr	Leu	Leu	Ala	Barr� et al., 2014		
+116 kDa U5 small nuclear ribonucleoprotein component	Q15029	487-512	peptide-Arg495+Val-peptide	N	MS	Ala	Phe	Gly	Arg	Val	Leu	Ser	Gly	Barr� et al., 2014		
+14-3-3 protein theta	P27348	138-151	R+KQTIDNSQGAYQE	N	MS	-	-	-	Arg	Lys	Gln	Thr	Ile	Barr� et al., 2014		
+40S ribosomal protein S12	P25398	98-117	GKPR+KVVGCSCVVVKDYGKE	N	MS	Gly	Lys	Pro	Arg	Lys	Val	Val	Gly	Barr� et al., 2014		
+40S ribosomal protein S21	P63220	68-83	SILR+LAKADGIVSKNF	N	MS	Ser	Ile	Leu	Arg	Leu	Ala	Lys	Ala	Barr� et al., 2014		
+40S ribosomal protein S24	P62847	4-39	peptide-Arg20+Lys-peptide	N	MS	Leu	Leu	Gln	Arg	Lys	Gln	Met	Val	Barr� et al., 2014		
+40S ribosomal protein S3a	P61247	33-68	peptide-Arg51+Thr-peptide	N	MS	Leu	Val	Thr	Arg	Thr	Gln	Gly	Thr	Barr� et al., 2014		
+60S ribosomal protein L10a	P62906	115-142	peptide-Arg122+Ile-peptide	N	MS	Gln	Ile	Pro	Arg	Ile	Leu	Gly	Pro	Barr� et al., 2014		
+Abz-Arg-Gln-Asp-Arg-ANB-NH2			Abz-Arg-Gln-Asp-Arg+ANB-NH2	S		Arg	Gln	Asp	Arg	ANB	NH2	-	-	Wysocka %eta, 2010		
+Abz-Arg-Gln-Asp-Lys-ANB-NH2			Abz-Arg-Gln-Asp-Lys+ANB-NH2	S		Arg	Gln	Asp	Lys	ANB	NH2	-	-	Wysocka %eta, 2010		
+Actin, aortic smooth muscle	P62736	28-59	peptide-Arg41+His-peptide	N	MS	Gly	Arg	Pro	Arg	His	Gln	Gly	Val	Barr� et al., 2014		
+Activator of 90 kDa heat shock protein ATPase homolog 1	O95433	246-260	R+GGKFHMVDGNVSGE	N	MS	-	-	-	Arg	Gly	Gly	Lys	Phe	Barr� et al., 2014		
+Adenylyl cyclase-associated protein 1	Q01518	121-136	KNR+GSKLFNHLSAVSE	N	MS	-	Lys	Asn	Arg	Gly	Ser	Lys	Leu	Barr� et al., 2014		
+Ataxin-2-like protein	Q8IU61	359-397	peptide-Arg382+Gly-peptide	N	MS	Leu	Pro	Pro	Arg	Gly	Pro	His	His	Barr� et al., 2014		
+ATP synthase subunit alpha, mitochondrial	Q96IR6	484-508	peptide-Arg493+Gly-peptide	N	MS	Ala	Gly	Val	Arg	Gly	Tyr	Leu	Asp	Barr� et al., 2014		
+ATP-dependent RNA helicase DDX50	Q9BQ39	205-222	TIKKSR+SPKVLVLAPTRE	N	MS	Lys	Lys	Ser	Arg	Ser	Pro	Lys	Val	Barr� et al., 2014		
+Basigin	P35613	166-180	VTGHR+WLKGGVVLKE	N	MS	Thr	Gly	His	Arg	Trp	Leu	Lys	Gly	Barr� et al., 2014		
+Bcl-2-associated transcription factor 1	Q9NYF8	271-314	peptide-Arg299+Ser-peptide	N	MS	Pro	Ser	Arg	Arg	Ser	Pro	Ala	Lys	Barr� et al., 2014		
+Boc-Phe-Ser-Arg-NHMec			Boc-Phe-Ser-Arg+NHMec	S		Boc	Phe	Ser	Arg	AMC	-	-	-	Wysocka %eta, 2010		
+Chromodomain-helicase-DNA-binding protein 4	Q14839	387-406	TCPR+AYHMVCLDPDMEKAPE	N	MS	Thr	Cys	Pro	Arg	Ala	Tyr	His	Met	Barr� et al., 2014		
+Clathrin light chain A	P09496	231-248	VSRMR+SVLISLKQAPLVH	N	MS	Ser	Arg	Met	Arg	Ser	Val	Leu	Ile	Barr� et al., 2014		
+Cytochrome c oxidase subunit 6C	P09669	65-75	MR+KAGIFQSVK	N	MS	-	Glu	Met	Arg	Lys	Ala	Gly	Ile	Barr� et al., 2014		
+Dihydrolipoyl dehydrogenase, mitochondrial	P09622	480-492	IAR+VCHAHPTLSE	N	MS	Asp	Ile	Ala	Arg	Val	Cys	His	Ala	Barr� et al., 2014		
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial	P10515	314-367	peptide-Arg354+Val-peptide	N	MS	Pro	Lys	Gly	Arg	Val	Phe	Val	Ser	Barr� et al., 2014		
+DnaJ homolog subfamily A member 1	P31689	118-138	LYNGATR+KLALQKNVICDKCE	N	MS	Gly	Ala	Thr	Arg	Lys	Leu	Ala	Leu	Barr� et al., 2014		
+Double-stranded RNA-binding protein Staufen homolog 1	Q9Y3Q2	439-458	FTR+AAPNPAKATVTAMIARE	N	MS	-	Phe	Thr	Arg	Ala	Ala	Pro	Asn	Barr� et al., 2014		
+Dual specificity mitogen-activated protein kinase kinase 2	P36507	2-27	peptide-Arg4+Arg-peptide	N	MS	Met	Leu	Ala	Arg	Arg	Lys	Pro	Val	Barr� et al., 2014		
+Dynein light chain 1, cytoplasmic	P63167	4-16	R+KAVIKNADMSEE	N	MS	-	-	-	Arg	Lys	Ala	Val	Ile	Barr� et al., 2014		
+Eukaryotic translation initiation factor 3 subunit F	O00303	112-130	GAAR+VIGTLLGTVDKHSVE	N	MS	Gly	Ala	Ala	Arg	Val	Ile	Gly	Thr	Barr� et al., 2014		
+Eukaryotic translation initiation factor 3 subunit G	O75821	164-181	HWTTR+CPYKDTLGPMQKE	N	MS	Trp	Thr	Thr	Arg	Cys	Pro	Tyr	Lys	Barr� et al., 2014		
+F-actin-capping protein subunit alpha-1	P52907	13-31	KVR+IAAKFITHAPPGEFNE	N	MS	-	Lys	Val	Arg	Ile	Ala	Ala	Lys	Barr� et al., 2014		
+Far upstream element-binding protein 2	Q92945	77-102	peptide-Arg80+Ala-peptide	N	MS	Ala	Val	Gln	Arg	Ala	Arg	Gln	Ile	Barr� et al., 2014		
+Filamin-B	Q9UEV9	979-1000	peptide-Arg986+Lys-peptide	N	MS	Ser	Pro	Ser	Arg	Lys	Val	Val	Pro	Barr� et al., 2014		
+Fructose-bisphosphate aldolase A	P04075	280-319	peptide-Arg304+Ala-peptide	N	MS	Ser	Tyr	Gly	Arg	Ala	Leu	Gln	Ala	Barr� et al., 2014		
+Glutathione synthetase	P48637	145-175	peptide-Arg164+His-peptide	N	MS	Ala	Val	His	Arg	His	Val	Leu	Ser	Barr� et al., 2014		
+Glyceraldehyde-3-phosphate dehydrogenase	P04406	318-335	FGYSNR+VVDLMAHMASKE	N	MS	Tyr	Ser	Asn	Arg	Val	Val	Asp	Leu	Barr� et al., 2014		
+Heat shock 70 kDa protein 1A/1B	P08107	49-69	R+LIGDAAKNQVALNPQNTVFD	N	MS	-	-	-	Arg	Leu	Ile	Gly	Asp	Barr� et al., 2014		
+Heat shock 70 kDa protein 4	P34932	371-391	AVTR+GCALQCAILSPAFKVRE	N	MS	Ala	Val	Thr	Arg	Gly	Cys	Ala	Leu	Barr� et al., 2014		
+hemagglutinin {ECO:0000313|EMBL:ABM46228.1}	A3R530	1-518	peptide-Arg320+Gly-peptide	N	NT	Arg	Ser	Ser	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+hemagglutinin {ECO:0000313|EMBL:ABM46232.1}	A3R534	1-536	peptide-Arg338+Gly-peptide	N	NT	Arg	Ser	Arg	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+hemagglutinin {ECO:0000313|EMBL:AEA04408.1}	F2P1E0	1-560	peptide-Arg338+Gly-peptide	N	NT	Val	Ser	Ser	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+Heterogeneous nuclear ribonucleoprotein M	P52272	707-721	RACR+MMNGMKLSGRE	N	MS	Arg	Ala	Cys	Arg	Met	Met	Asn	Gly	Barr� et al., 2014		
+Heterogeneous nuclear ribonucleoproteins C1/C2	Q86U45	135-199	peptide-Arg180+Gly-peptide	N	MS	Ser	Gly	Gln	Arg	Gly	Ser	Ser	Lys	Barr� et al., 2014		
+Hexokinase-1	Q9NNZ5	328-347	LLTR+GKFNTSDVSAIEKNKE	N	MS	Leu	Leu	Thr	Arg	Gly	Lys	Phe	Asn	Barr� et al., 2014		
+Histone H1.4	P10412	17-42	peptide-Arg25+Lys-peptide	N	MS	Lys	Lys	Ala	Arg	Lys	Ser	Ala	Gly	Barr� et al., 2014		
+Histone H2A type 1-B/E	P04908	74-92	NKKTRIIPR+HLQLAIRNDE	N	MS	Ile	Ile	Pro	Arg	His	Leu	Gln	Leu	Barr� et al., 2014		
+Histone H2A type 1-B/E	P04908	74-93	NKKTRIIPR+HLQLAIRNDEE	N	MS	Ile	Ile	Pro	Arg	His	Leu	Gln	Leu	Barr� et al., 2014		
+Histone H2A type 1-B/E	P04908	94-122	peptide-Arg100+Val-peptide	N	MS	Leu	Leu	Gly	Arg	Val	Thr	Ile	Ala	Barr� et al., 2014		
+Histone H2A.V	Q71UI9	77-96	LKVKRITPR+HLQLAIRGDEE	N	MS	Ile	Thr	Pro	Arg	His	Leu	Gln	Leu	Barr� et al., 2014		
+Histone H2B type 2-E	Q16778	95-114	IQTAVR+LLLPGELAKHAVSE	N	MS	Thr	Ala	Val	Arg	Leu	Leu	Leu	Pro	Barr� et al., 2014		
+Histone-binding protein RBBP7	Q16576	256-274	TR+SNTTSKPSHLVDAHTAE	N	MS	-	-	Thr	Arg	Ser	Asn	Thr	Thr	Barr� et al., 2014		
+Importin subunit beta-1	Q14974	850-868	GRR+SKTNKAKTLATWATKE	N	MS	-	Gly	Arg	Arg	Ser	Lys	Thr	Asn	Barr� et al., 2014		
+Kinesin light chain 4	Q9NSK0	207-228	peptide-Arg212+Thr-peptide	N	MS	Ala	Arg	Leu	Arg	Thr	Leu	His	Asn	Barr� et al., 2014		
+L-lactate dehydrogenase A chain	Q9UDE8	314-329	AR+LKKSADTLWGIQKE	N	MS	-	-	Ala	Arg	Leu	Lys	Lys	Ser	Barr� et al., 2014		
+Lamin-B1	P20700	89-99	AR+RALDDTARE	N	MS	-	-	Ala	Arg	Arg	Ala	Leu	Asp	Barr� et al., 2014		
+Microtubule-associated protein tau	Q5CZI7	666-689	peptide-Arg666+Val-peptide	N	MS	-	-	-	Arg	Val	Gln	Ser	Lys	Barr� et al., 2014		
+Myosin-9	P35579	1751-1769	R+LKKANLQIDQINTDLNLE	N	MS	-	-	-	Arg	Leu	Lys	Lys	Ala	Barr� et al., 2014		
+Neudesin	Q9UMX5	96-113	STR+GVAKMSLDPADLTHD	N	MS	-	Ser	Thr	Arg	Gly	Val	Ala	Lys	Barr� et al., 2014		
+Nuclear migration protein nudC	Q9Y266	28-48	LVNTFFSFLR+RKTDFFIGGEE	N	MS	Ser	Phe	Leu	Arg	Arg	Lys	Thr	Asp	Barr� et al., 2014		
+Nucleolar protein 58	Q9Y2X3	401-417	RGIR+KISGTGKALAKTE	N	MS	Arg	Gly	Ile	Arg	Lys	Ile	Ser	Gly	Barr� et al., 2014		
+Nucleoporin p58/p45	Q9BVL2	324-338	IALR+TQKTPPGLQHE	N	MS	Ile	Ala	Leu	Arg	Thr	Gln	Lys	Thr	Barr� et al., 2014		
+Nucleoprotein TPR	P12270	2132-2151	R+TVPSTPTLVVPHRTDGFAE	N	MS	-	-	-	Arg	Thr	Val	Pro	Ser	Barr� et al., 2014		
+Peroxiredoxin-1	Q06830	156-171	TLR+LVQAFQFTDKHGE	N	MS	-	Thr	Leu	Arg	Leu	Val	Gln	Ala	Barr� et al., 2014		
+Phenylalanine--tRNA ligase beta subunit	Q9NSD9	551-567	IFAR+GQSVGKLGVLHPD	N	MS	Ile	Phe	Ala	Arg	Gly	Gln	Ser	Val	Barr� et al., 2014		
+Phenylalanine--tRNA ligase beta subunit	Q9NSD9	551-573	peptide-Arg554+Gly-peptide	N	MS	Ile	Phe	Ala	Arg	Gly	Gln	Ser	Val	Barr� et al., 2014		
+Plasminogen activator inhibitor 1 RNA-binding protein	Q9Y367	78-94	R+KNPLPPSVGVVDKKEE	N	MS	-	-	-	Arg	Lys	Asn	Pro	Leu	Barr� et al., 2014		
+Plasminogen activator inhibitor 1 RNA-binding protein	Q9Y367	215-230	KR+GGSGSHNWGTVKDE	N	MS	-	-	Lys	Arg	Gly	Gly	Ser	Gly	Barr� et al., 2014		
+Profilin-1	P07737	56-76	R+SSFYVNGLTLGGQKCSVIRD	N	MS	-	-	-	Arg	Ser	Ser	Phe	Tyr	Barr� et al., 2014		
+Protein disulfide-isomerase A3	P30101	69-84	AAATR+LKGIVPLAKVD	N	MS	Ala	Ala	Thr	Arg	Leu	Lys	Gly	Ile	Barr� et al., 2014		
+Protein-L-isoaspartate(D-aspartate) O-methyltransferase	Q96II9	13-30	LIHNLR+KNGIIKTDKVFE	N	MS	His	Asn	Leu	Arg	Lys	Asn	Gly	Ile	Barr� et al., 2014		
+Putative heat shock protein HSP 90-alpha A2	Q14568	179-196	RMGR+GTKVILHLKEDQTE	N	MS	Arg	Met	Gly	Arg	Gly	Thr	Lys	Val	Barr� et al., 2014		
+Putative heat shock protein HSP 90-alpha A2	Q14568	179-192	RMGR+GTKVILHLKE	N	MS	Arg	Met	Gly	Arg	Gly	Thr	Lys	Val	Barr� et al., 2014		
+Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX15	O43143	2-11	SKR+HRLDLGE	N	MS	Met	Ser	Lys	Arg	His	Arg	Leu	Asp	Barr� et al., 2014		
+Pyruvate kinase PKM	Q96E76	64-82	MIKSGMNVAR+LNFSHGTHE	N	MS	Asn	Val	Ala	Arg	Leu	Asn	Phe	Ser	Barr� et al., 2014		
+Pyruvate kinase PKM	Q96E76	305-332	peptide-Arg319+Ala-peptide	N	MS	Arg	Cys	Asn	Arg	Ala	Gly	Lys	Pro	Barr� et al., 2014		
+Ribonuclease UK114	P52758	95-122	peptide-Arg107+Ala-peptide	N	MS	Phe	Pro	Ala	Arg	Ala	Ala	Tyr	Gln	Barr� et al., 2014		
+Ribonucleoprotein PTB-binding 1	Q8IY67	428-451	peptide-Arg431+Arg-peptide	N	MS	Leu	Pro	Pro	Arg	Arg	Gly	Lys	Pro	Barr� et al., 2014		
+Ribosomal L1 domain-containing protein 1	O76021	383-420	peptide-Arg407+Lys-peptide	N	MS	Gly	Lys	Lys	Arg	Lys	Ala	Leu	Pro	Barr� et al., 2014		
+Ribosomal L1 domain-containing protein 1	O76021	302-324	peptide-Arg310+Lys-peptide	N	MS	Gln	Gln	Ala	Arg	Lys	Thr	Ala	Ser	Barr� et al., 2014		
+Ribosome biogenesis regulatory protein homolog	Q15050	218-237	LGR+AMQVAKVSTASVGRFQE	N	MS	-	Leu	Gly	Arg	Ala	Met	Gln	Val	Barr� et al., 2014		
+RNA-binding protein 10	P98175	145-158	IR+GQLQSHGVQARE	N	MS	-	-	Ile	Arg	Gly	Gln	Leu	Gln	Barr� et al., 2014		
+Septin-12	Q8IYM1	256-276	HLVNGRCVL+GRKTKWGIIEVE	N	MS	Arg	Cys	Val	Leu	Gly	Arg	Lys	Thr	Barr� et al., 2014		
+Small acidic protein	O00193	90-106	SKLSGRYR+RHCGLGFSE	N	MS	Gly	Arg	Tyr	Arg	Arg	His	Cys	Gly	Barr� et al., 2014		
+Spermidine synthase	P19623	82-110	peptide-Arg95+Lys-peptide	N	MS	Pro	Asn	Pro	Arg	Lys	Val	Leu	Ile	Barr� et al., 2014		
+Structural maintenance of chromosomes protein 4	Q9NTJ3	508-525	IYLSR+HNTAVSQLTKAKE	N	MS	Tyr	Leu	Ser	Arg	His	Asn	Thr	Ala	Barr� et al., 2014		
+Superkiller viralicidic activity 2-like 2	P42285	122-141	YLPLKPR+VGKAAKEYPFILD	N	MS	Leu	Lys	Pro	Arg	Val	Gly	Lys	Ala	Barr� et al., 2014		
+Syntaxin-8	Q9UNK0	78-90	R+RQNLLDDLVTRE	N	MS	-	-	-	Arg	Arg	Gln	Asn	Leu	Barr� et al., 2014		
+T-complex protein 1 subunit delta	P50991	525-539	TVR+SILKIDDVVNTR	N	MS	-	Thr	Val	Arg	Ser	Ile	Leu	Lys	Barr� et al., 2014		
+Targeting protein for Xklp2	Q9ULW0	43-84	peptide-Arg62+Lys-peptide	N	MS	Thr	Pro	Leu	Arg	Lys	Ala	Asn	Leu	Barr� et al., 2014		
+THO complex subunit 4	Q86V81	141-154	RSGR+SLGTADVHFE	N	MS	Arg	Ser	Gly	Arg	Ser	Leu	Gly	Thr	Barr� et al., 2014		
+THUMP domain-containing protein 3	Q9BV44	351-374	peptide-Arg358+Ala-peptide	N	MS	Ala	Val	Asn	Arg	Ala	Ala	Asn	Asn	Barr� et al., 2014		
+Transmembrane protein 158	Q8WZ71	258-300	peptide-Ala285+Ala-peptide	N	MS	Ala	Ala	Ala	Ala	Ala	Ala	Ala	Ala	Barr� et al., 2014		
+Tubulin-specific chaperone A	O75347	4-22	PRVR+QIKIKTGVVKRLVKE	N	MS	Pro	Arg	Val	Arg	Gln	Ile	Lys	Ile	Barr� et al., 2014		
+Urokinase plasminogen activator surface receptor	Q03405	23-305	peptide-Arg105+Ala-peptide	P	NT	Asn	Ser	Gly	Arg	Ala	Val	Thr	Tyr	Beaufort et al., 2007		
+Urokinase plasminogen activator surface receptor	Q03405	23-305	peptide-Arg111+Ser-peptide	P	NT	Thr	Tyr	Ser	Arg	Ser	Arg	Tyr	Leu	Beaufort et al., 2007		
+Vimentin	Q8N850	157-172	LR+RQVDQLTNDKARVE	N	MS	-	-	Leu	Arg	Arg	Gln	Val	Asp	Barr� et al., 2014		
+Vinculin	P18206	820-833	SGYR+ILGAVAKVRE	N	MS	Ser	Gly	Tyr	Arg	Ile	Leu	Gly	Ala	Barr� et al., 2014		
+von Willebrand factor A domain-containing protein 5B1	Q5TIE3	990-1007	GPQRSLATNT+LSSMKASE	N	MS	Ala	Thr	Asn	Thr	Leu	Ser	Ser	Met	Barr� et al., 2014		
+Zinc finger Ran-binding domain-containing protein 2	O95218	127-147	FGRKKKKYR+GKAVGPASILKE	N	MS	Lys	Lys	Tyr	Arg	Gly	Lys	Ala	Val	Barr� et al., 2014

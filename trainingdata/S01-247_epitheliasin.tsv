@@ -1,0 +1,9 @@
+Substrate	Uniprot	Residue range	Cleavage Site	Cleavage type	Evidence	P4	P3	P2	P1	P1'	P2'	P3'	P4'	Reference	CutDB	MERNUM
+epitheliasin precursor	Q96T73	1-492	peptide-Arg255+Ile-peptide	P		Arg	Gln	Ser	Arg	Ile	Val	Gly	Gly	Afar et al., 2001	17439	
+hemagglutinin {ECO:0000313|EMBL:ABM46228.1}	A3R530	1-518	peptide-Arg320+Gly-peptide	N	NT	Arg	Ser	Ser	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+hemagglutinin {ECO:0000313|EMBL:ABM46232.1}	A3R534	1-536	peptide-Arg338+Gly-peptide	N	NT	Arg	Ser	Arg	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+hemagglutinin {ECO:0000313|EMBL:AEA04408.1}	F2P1E0	1-560	peptide-Arg338+Gly-peptide	N	NT	Val	Ser	Ser	Arg	Gly	Leu	Phe	Gly	Baron et al., 2013		
+spike glycoprotein	K9N5Q8	18-1353	peptide-Arg887+Ser-peptide	P	NT	Arg	Ser	Ala	Arg	Ser	Ala	Ile	Glu			
+spike glycoprotein	P0DTC2	18-1353	peptide-Arg815+Ser-peptide	P	NT	Pro	Ser	Lys	Arg	Ser	Phe	Ile	Glu			
+spike glycoprotein	P59594	18-1353	peptide-Arg797+Ser-peptide	P	NT	Pro	Thr	Lys	Arg	Ser	Phe	Ile	Glu			
+transmembrane protease serine 2	O15393	1-492	peptide-Arg255+Ile-peptide	P	NT	Arg	Gln	Ser	Arg	Ile	Val	Gly	Gly	Reid et al., 2017		

@@ -1,0 +1,11 @@
+Substrate	Uniprot	Residue range	Cleavage Site	Cleavage type	Evidence	P4	P3	P2	P1	P1'	P2'	P3'	P4'	Reference	CutDB	MERNUM
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Lys150+Leu-peptide	P		Asn	Ser	Asp	Lys	Leu	Val	Phe	Pro	Garcia-Caballero et al., 2008	26755	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Arg165+Tyr-peptide	P		Asn	Pro	Tyr	Arg	Tyr	Thr	Glu	Ile	Garcia-Caballero et al., 2008	26756	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Lys170+Glu-peptide	P		Thr	Glu	Ile	Lys	Glu	Glu	Leu	Glu	Garcia-Caballero et al., 2008	26757	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Arg178+Ile-peptide	P		Glu	Leu	Asp	Arg	Ile	Thr	Glu	Gln	Garcia-Caballero et al., 2008	26758	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Arg206+Asp-peptide	P		Arg	Ser	Ser	Arg	Asp	Leu	Leu	Gly	Garcia-Caballero et al., 2008	26759	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Arg232+Ser-peptide	P		Arg	Thr	Ala	Arg	Ser	Gly	Ser	Ser	Garcia-Caballero et al., 2008	26760	
+scnn1a sodium channel, nonvoltage-gated, type I, alpha	P37089	1-698	peptide-Lys562+Thr-peptide	P		Leu	Asn	Tyr	Lys	Thr	Asn	Ser	Glu	Garcia-Caballero et al., 2008	26761	
+scnn1b sodium channel, nonvoltage-gated 1 beta	P37090	1-638	peptide-Arg503+Thr-peptide	P		Phe	Asn	Tyr	Arg	Thr	Ile	Glu	Glu	Garcia-Caballero et al., 2008	26762	
+scnn1g sodium channel, nonvoltage-gated 1 gamma	P37091	1-650	peptide-Arg138+Glu-peptide	P		Arg	Lys	Arg	Arg	Glu	Ala	Gly	Ser	Garcia-Caballero et al., 2008	26763	
+scnn1g sodium channel, nonvoltage-gated 1 gamma	P37091	1-650	peptide-Arg515+Ser-peptide	P		Leu	Asn	Gln	Arg	Ser	Ile	Met	Glu	Garcia-Caballero et al., 2008	26764	
